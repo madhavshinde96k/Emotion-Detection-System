@@ -153,8 +153,6 @@ The detected emotion appears above the face in real-time.
 
 Data Science | AI | Machine Learning
 
-GitHub: https://github.com/yourusername
-
 ---
 
 ## ⭐ Support
