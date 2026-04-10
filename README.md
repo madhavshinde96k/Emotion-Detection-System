@@ -131,10 +131,9 @@ Dataset contains **35,000+ labeled facial images** with different emotions.
 ## 📸 Sample Output
 
 ```
-Face Detected → Emotion: Happy 
-<img width="382" height="305" alt="Screenshot 2026-04-10 143631" src="https://github.com/user-attachments/assets/65717ca3-fff9-4f5a-9d23-f61ea4bd5b16" />
+Face Detected → Emotion: sad
+<img width="569" height="567" alt="Screenshot 2026-04-10 143653" src="https://github.com/user-attachments/assets/d2c2e7e0-958e-4907-93f9-7cfe94c0dae5" />
 
-```
 
 The detected emotion appears above the face in real-time.
 
