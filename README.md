@@ -132,11 +132,11 @@ Dataset contains **35,000+ labeled facial images** with different emotions.
 
 ```
 Face Detected → Emotion: sad
-<img width="569" height="567" alt="Screenshot 2026-04-10 143653" src="https://github.com/user-attachments/assets/d2c2e7e0-958e-4907-93f9-7cfe94c0dae5" />
+<img width="569" height="567" alt="Screenshot 2026-04-10 143653" src="https://github.com/user-attachments/assets/3166299e-6cb3-4601-ab97-9c88fc100d29" />
+
 
 
 The detected emotion appears above the face in real-time.
-<img width="569" height="567" alt="Screenshot 2026-04-10 143653" src="https://github.com/user-attachments/assets/cf7df893-d6a4-412f-8c04-f683de15fe04" />
 
 ---
 
