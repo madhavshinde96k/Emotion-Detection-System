@@ -136,7 +136,8 @@ Face Detected → Emotion: sad
 
 The detected emotion appears above the face in real-time.
 
----
+---<img width="569" height="567" alt="Screenshot 2026-04-10 143653" src="https://github.com/user-attachments/assets/8cd2d6c8-6738-4dba-bf47-c564e0bcac6e" />
+
 
 ## 🔮 Future Improvements
 
