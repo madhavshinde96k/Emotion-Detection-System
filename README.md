@@ -133,7 +133,7 @@ Dataset contains **35,000+ labeled facial images** with different emotions.
 ## 📸 Sample Output
 
 ```
-Face Detected → Emotion: Happy 😀
+Face Detected → Emotion: Sad
 ```
 
 The detected emotion appears above the face in real-time.
@@ -155,7 +155,7 @@ The detected emotion appears above the face in real-time.
 
 Data Science | AI | Machine Learning
 
-GitHub: https://github.com/yourusername
+
 
 ---
 
